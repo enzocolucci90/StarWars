@@ -8,7 +8,7 @@ import retrofit2.converter.jackson.JacksonConverterFactory;
 
 public class UtilManager {
 
-    private static String baseUrl = "https://swapi.co/api/";
+    private static String baseUrl = "https://swapi.dev/api/";
 
     private static Retrofit retrofit = null;
 
